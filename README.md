@@ -1,4 +1,4 @@
-﻿# Support Identification - Grupo 13
+﻿# Support Identification - Grupo 47
 
 ## 🎥 Vídeo de apresentação
 
@@ -46,12 +46,9 @@ https://github.com/user-attachments/assets/36f9831a-ce4f-433c-9853-428d03ad2637
 ## 👥 Integrantes - Grupo 13
 
 <ul>
-  <li>MURILLO OTÁVIO FARIA MONTEIRO</li>
-  <li>VITOR EDUARDO DE SANTANA ALBINO</li>
+  <li>ADLER SCHLINTWEIN BARRETO</li>
   <li>LAURA PALUCCI MATHEUS</li>
-  <li>HENRIQUE ROCHA BATISTA DA SILVA</li>
-  <li>GABRIEL EIRAS CORREA</li>
-  <li>PEDRO HENRIQUE DE ALMEIDA DOS SANTOS.</li>
+  <li>MARIA LUIZA GOMES LOPES</li>
 </ul>
 
 
