@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/36f9831a-ce4f-433c-9853-428d03ad2637
   <li>http://127.0.0.1:8000/perfil/sair <- para acessar esta rota é necessário estar logado</li>
 </ul>
 
-## 👥 Integrantes - Grupo 13
+## 👥 Integrantes - Grupo 47
 
 <ul>
   <li>ADLER SCHLINTWEIN BARRETO</li>
