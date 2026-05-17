@@ -2,7 +2,7 @@
 
 ## 🎥 Vídeo de apresentação
 
-https://github.com/user-attachments/assets/36f9831a-ce4f-433c-9853-428d03ad2637
+https://github.com/user-attachments/assets/e75be2ef-6910-4dd6-af07-de17a89a8b19
 
 ## 🎯 Objetivo da aplicação
 <p>Ao acessar nosso site, o usuário pode realizar o cadastro e efetuar o login para, posteriormente, registrar e atualizar informações relacionadas à saúde, permitindo que, em futuras situações de emergência ou necessidade de socorro, outras pessoas consigam auxiliar em momentos de vulnerabilidade. Além disso, o sistema oferece a opção de remover essas informações caso seja da preferência do usuário.</p>
